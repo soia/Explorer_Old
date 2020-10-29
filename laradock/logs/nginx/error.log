@@ -1,0 +1,10 @@
+2018/08/20 10:30:48 [emerg] 1#1: host not found in upstream "btc-nginx" in /etc/nginx/sites-available/default.conf:26
+2018/12/27 08:51:53 [crit] 1#1: pwrite() "/run/nginx.pid" failed (28: No space left on device)
+2019/05/03 17:42:17 [emerg] 1#1: open() "/dev/stdout" failed (11: Resource temporarily unavailable)
+2019/05/08 13:42:17 [emerg] 1#1: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2019/12/19 08:44:22 [alert] 1#1: worker process 9 exited on signal 9
+2019/12/19 08:44:22 [alert] 1#1: worker process 6 exited on signal 9
+2019/12/19 08:44:22 [alert] 1#1: worker process 7 exited on signal 9
+2019/12/19 08:44:22 [alert] 1#1: worker process 8 exited on signal 9
+2020/08/28 11:31:45 [emerg] 1#1: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
+2020/08/28 11:32:25 [emerg] 1#1: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
